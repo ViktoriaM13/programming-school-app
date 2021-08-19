@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b30a029-32d0-4333-a895-6783e94a3bd4" name="Default Changelist" comment="Initialize project using Create React App">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/programming-school-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/State/State.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/About/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/About/About.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearning/AcceleratedLearning.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearning/AcceleratedLearning.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearningDirections/AcceleratedLearningDirections.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearningDirections/AcceleratedLearningDirections.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearningEngineer/AcceleratedLearningEngineer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearningEngineer/AcceleratedLearningEngineer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearningGraphDes/AcceleratedLearningGraphDes.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearningGraphDes/AcceleratedLearningGraphDes.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearningOffer/AcceleratedLearningOffer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearningOffer/AcceleratedLearningOffer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearningProgrammer/AcceleratedLearningProgrammer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearningProgrammer/AcceleratedLearningProgrammer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearningWebDev/AcceleratedLearningWebDev.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AcceleratedLearningWebDev/AcceleratedLearningWebDev.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/1C.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/3DMax.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/AE.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/AI.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/AJAX.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/AWS.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/AutoCad.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/BITRIX.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/CSS.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/Cinema.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/CorelDraw.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/Cplus.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/Csharp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/DS.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/Exel.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/FLASH.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/Font.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/GD.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/GUnity.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/HTML.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/Hack.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/Haskell.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/INDESIGN.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/IS.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/JOOMLA.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/JQ.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/JS.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/Java.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/Linux.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/MExel.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/Mobile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/OC.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/PC.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/PHP.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/PM.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/PO.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/PP.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/PS.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/Python.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/SA.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/SEO.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/SERM.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/SQL.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/SonyVegas.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/Swift.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/TB.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/AllCourses/Unity.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/Cours.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/Courses.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/Crs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Diploma/Diploma.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Diploma/Diploma.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Directions/Directions.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Directions/Directions.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Education/Education.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Education/Education.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Features/Features.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Features/Features.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FullTraining/FullTraining.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FullTraining/FullTraining.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FullTrainingDirections/FullTrainingDirections.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FullTrainingDirections/FullTrainingDirections.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FullTrainingGraphDes/FullTrainingGraphDes.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FullTrainingGraphDes/FullTrainingGraphDes.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FullTrainingProgrammer/FullTrainingProgrammer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FullTrainingProgrammer/FullTrainingProgrammer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FullTrainingSystemEngineer/FullTrainingSystemEngineer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FullTrainingSystemEngineer/FullTrainingSystemEngineer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FullTrainingWebDev/FullTrainingWebDev.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FullTrainingWebDev/FullTrainingWebDev.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GlobalStyles/globalStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GraphicDesigner/GraphicDesigner.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GraphicDesigner/GraphicDesigner.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header2/Header2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header2/Header2.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/Home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ITKids/ITKids.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ITKids/ITKids.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ITKidsOffer/ITKidsOffer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ITKidsOffer/ITKidsOffer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ITKidsQuestion/ITKidsQuestion.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ITKidsQuestion/ITKidsQuestion.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Policy/Policy.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Policy/Policy.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PriceWebDev/PriceWebDev.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PriceWebDev/PriceWebDev.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PriceWebDevAccelerated/PriceWebDevAccelerated.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PriceWebDevAccelerated/PriceWebDevAccelerated.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Programmer/Programmer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Programmer/Programmer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Reviews/Reviews.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Reviews/Reviews.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Stages/Stages.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Stages/Stages.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SystemEngineer/SystemEngineer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SystemEngineer/SystemEngineer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Test/Test.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Test/Test.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Theme/Themes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Toggler/Toggler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramEngineerAccelerated/TrainingProgramEngineerAccelerated.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramEngineerAccelerated/TrainingProgramEngineerAccelerated.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramGraphDes/TrainingProgramGraphDes.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramGraphDes/TrainingProgramGraphDes.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramGraphDesAccelerated/TrainingProgramGraphDesAccelerated.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramGraphDesAccelerated/TrainingProgramGraphDesAccelerated.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramITKids/TrainingProgramITKids.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramITKids/TrainingProgramITKids.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramProgrammer/TrainingProgramProgrammer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramProgrammer/TrainingProgramProgrammer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramProgrammerAccelerated/TrainingProgramProgrammerAccelerated.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramProgrammerAccelerated/TrainingProgramProgrammerAccelerated.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramSystemEngineer/TrainingProgramSystemEngineer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramSystemEngineer/TrainingProgramSystemEngineer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramWebDev/TrainingProgramWebDev.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramWebDev/TrainingProgramWebDev.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramWebDevAccelerated/TrainingProgramWebDevAccelerated.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrainingProgramWebDevAccelerated/TrainingProgramWebDevAccelerated.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WebDeveloper/WebDeveloper.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WebDeveloper/WebDeveloper.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/useDarkMode/useDarkMode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/1c(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/3D MAX(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/ADOBE ILLUSTRATOR(5).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/AJAX(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/AJAX(2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/AUTO CAD(3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Adobe Flash(4).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/After Effects(6).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Bitrix(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/CMS JOOMLA(3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/CMS OpenCart(2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/COREL DRAW(2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/CSS(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Cinema 4D(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Cinema 4D(2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Data Science(3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Game Dev  Геймдизайн(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/HTML(2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Haskell(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/INDESIGN(6).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/JAVA(4).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/JQUERY(3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/JS(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/PHOTOSHOP(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/PHP(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/PREMIERE PRO(5).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Python(2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/SEO(2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/SERM(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/SQL(3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/SWIFT(3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Sony Vegas(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Unity 3D(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/accelerated-learning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/brain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/c++(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/check-mark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/child.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/children.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/circle-striped-grey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/circle-striped-red.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/coin-dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/coin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/csharp(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/decor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/decorDark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/diploma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/ellipse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/file.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/first-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-10.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-9-dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-dark-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-dark-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/geometric-figure-dark-8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/girl-with-a-book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/graduation-cap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/graph-des.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/it-kids-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/it-kids.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/laptop-code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/laptop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/logo-small-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/logo-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/marker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/pencil-ruler.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/programmer2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/robot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/rocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/rocket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/start-test.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/students.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/system-engineer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/tablet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/telephone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/tools.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/triangle-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/triangle-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/triangle-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/triangle-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/user-graduate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/waves.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/wavesDark3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/wavy-line.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/web-dev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/whatsapp-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/whatsapp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/АДМИНИСТРИРОВАНИЕ WINDOWS SERVER(4).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Администрирование Linux (Ubuntu)(3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Волны.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Информационная безопасность(3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Макросы Excel(2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Методики расследования хакерских инцидентов(2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/ПО(2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Пользователь ПК(компьютер с нуля)(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Программирование микроконтроллеров(3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Разработка мобильных приложений(4).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Разработка торговых ботов (биржакриптовалюта)(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Системное администрирование(3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Технология создания компьютерных шрифтов(3).svg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Victoria &lt;victoria.m13@mail.ru&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="gh-pages" />
+                    <option name="lastUsedInstant" value="1629376439" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1629376438" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wZnBz6yE0kfSSG4IGIxu79sSQs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b30a029-32d0-4333-a895-6783e94a3bd4" name="Default Changelist" comment="" />
+      <created>1628674847099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628674847099</updated>
+      <workItem from="1628674848254" duration="44000" />
+      <workItem from="1628675049779" duration="325000" />
+      <workItem from="1628681582343" duration="1219000" />
+      <workItem from="1628770929096" duration="3000" />
+      <workItem from="1629136343047" duration="13000" />
+      <workItem from="1629198708137" duration="2000" />
+      <workItem from="1629205876043" duration="2000" />
+      <workItem from="1629236725180" duration="1000" />
+      <workItem from="1629281696041" duration="8000" />
+      <workItem from="1629363144918" duration="14000" />
+      <workItem from="1629363161381" duration="10924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialize project using Create React App" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
